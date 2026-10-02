@@ -11,7 +11,7 @@ Estudiante de **Ingeniería de Software** en la Universidad Nacional Mayor de Sa
 
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
-| [Ventas de tienda online con SQL](https://github.com/FranzARCH/analisis-ventas-sql) | Consultas de negocio: CTE, funciones ventana, JOIN | SQL, SQLite, Python |
+| [Ventas de tienda online con SQL](https://github.com/FranzARCH/analisis-ventas-sql) | 8 consultas de negocio: CTE, funciones ventana, JOIN | SQL, SQLite, Python |
 
 ## Herramientas
 

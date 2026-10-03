@@ -5,6 +5,7 @@ Estudiante de **Ingeniería de Software** en la Universidad Nacional Mayor de Sa
 ## En qué trabajo ahora
 
 - Análisis de datos con **Python (pandas)** y **SQL**
+- Limpieza y análisis exploratorio de datos con pandas
 - Aprendiendo estadística y Machine Learning con scikit-learn
 
 ## Proyectos destacados
@@ -12,6 +13,7 @@ Estudiante de **Ingeniería de Software** en la Universidad Nacional Mayor de Sa
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
 | [Ventas de tienda online con SQL](https://github.com/FranzARCH/analisis-ventas-sql) | 8 consultas de negocio: CTE, funciones ventana, JOIN | SQL, SQLite, Python |
+| [Limpieza y EDA de encuestas](https://github.com/FranzARCH/limpieza-eda-encuestas-pandas) | Limpieza de datos sucios y análisis exploratorio (en progreso) | pandas, matplotlib |
 
 ## Herramientas
 
